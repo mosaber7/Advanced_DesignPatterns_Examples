@@ -1,4 +1,5 @@
 # ServiceLocatorPattern_Example
+A playground with a simple implementaion of Service Locator Pattern for eaiser Dependncy Injection and simple unit testing
 
 The service locator pattern is designed to encapsulate the processes invovled in obtaining a service with a strong layer of abstraction.
 
